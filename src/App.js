@@ -44,7 +44,7 @@ function App() {
               <h2 className="font-bold mb-6 text-white text-xl">
                 Documentation
               </h2>
-              <p>Read the official documentation</p>
+              <p>React official documentation</p>
             </div>
             <svg
               width="24"
